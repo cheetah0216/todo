@@ -1,0 +1,12 @@
+Todo List
+usage: todo [-d N] [-Dhl] [ITEM]
+
+Options:
+-d N: Delete item #N
+-D: Delete all items
+-h: Show this help message
+-l: Show all items
+
+If options are omitted the remaining arguments are treated as a 
+new item. If no arguments are provided, shows usage and lists all 
+items.

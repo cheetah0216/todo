@@ -1,0 +1,4 @@
+To install:
+    cd todo
+    make
+    mv todo ~/bin/
